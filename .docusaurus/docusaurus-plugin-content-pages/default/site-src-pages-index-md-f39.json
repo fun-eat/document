@@ -1,0 +1,12 @@
+{
+  "type": "mdx",
+  "permalink": "/",
+  "source": "@site/src/pages/index.md",
+  "title": "Introduction",
+  "description": "펀잇 디자인 시스템 문서입니다.",
+  "frontMatter": {
+    "title": "Introduction",
+    "hide_table_of_contents": true
+  },
+  "unlisted": false
+}
