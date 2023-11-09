@@ -39,19 +39,25 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '60a'),
+    component: ComponentCreator('/docs', '4c2'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '702'),
+        component: ComponentCreator('/docs', 'aea'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'e5e'),
+            component: ComponentCreator('/docs', 'd86'),
             routes: [
               {
+                path: '/docs/Badge',
+                component: ComponentCreator('/docs/Badge', '257'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/Intall',
-                component: ComponentCreator('/docs/Intall', '7da'),
+                component: ComponentCreator('/docs/Intall', '7ee'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

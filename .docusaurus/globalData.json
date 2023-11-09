@@ -11,6 +11,11 @@
           "mainDocId": "Intall",
           "docs": [
             {
+              "id": "Badge",
+              "path": "/docs/Badge",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Intall",
               "path": "/docs/Intall",
               "sidebar": "tutorialSidebar"

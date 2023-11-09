@@ -70,5 +70,7 @@
   "theme.tags.tagsPageLink": "모든 태그 보기",
   "theme.tags.tagsPageTitle": "태그",
   "theme.unlistedContent.message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
-  "theme.unlistedContent.title": "Unlisted page"
+  "theme.unlistedContent.title": "Unlisted page",
+  "theme.Playground.liveEditor": "라이브 에디터",
+  "theme.Playground.result": "결과"
 }

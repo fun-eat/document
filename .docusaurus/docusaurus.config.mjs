@@ -39,7 +39,13 @@ export default {
       }
     ]
   ],
+  "plugins": [
+    "@docusaurus/theme-live-codeblock"
+  ],
   "themeConfig": {
+    "liveCodeBlock": {
+      "playgroundPosition": "top"
+    },
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
       "title": "Fun-Eat Design System",
@@ -300,7 +306,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],

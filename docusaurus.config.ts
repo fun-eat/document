@@ -53,8 +53,11 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-
+  plugins: ['@docusaurus/theme-live-codeblock'],
   themeConfig: {
+    liveCodeBlock: {
+      playgroundPosition: 'top',
+    },
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {

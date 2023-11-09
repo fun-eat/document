@@ -15,10 +15,23 @@
         "href": "/docs/Intall",
         "docId": "Intall",
         "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Badge",
+        "href": "/docs/Badge",
+        "docId": "Badge",
+        "unlisted": false
       }
     ]
   },
   "docs": {
+    "Badge": {
+      "id": "Badge",
+      "title": "Badge",
+      "description": "Badge",
+      "sidebar": "tutorialSidebar"
+    },
     "Intall": {
       "id": "Intall",
       "title": "Install",
