@@ -21,8 +21,63 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Button",
+              "path": "/docs/Button",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Carousel",
+              "path": "/docs/Carousel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Checkbox",
+              "path": "/docs/Checkbox",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Divider",
+              "path": "/docs/Divider",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Heading",
+              "path": "/docs/Heading",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Input",
+              "path": "/docs/Input",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Intall",
               "path": "/docs/Intall",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Link",
+              "path": "/docs/Link",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Skeleton",
+              "path": "/docs/Skeleton",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Spacing",
+              "path": "/docs/Spacing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Text",
+              "path": "/docs/Text",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Textarea",
+              "path": "/docs/Textarea",
               "sidebar": "tutorialSidebar"
             },
             {

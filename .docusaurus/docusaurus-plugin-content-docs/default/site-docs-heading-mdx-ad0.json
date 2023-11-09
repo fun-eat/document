@@ -1,0 +1,28 @@
+{
+  "id": "Heading",
+  "title": "Heading",
+  "description": "Heading",
+  "source": "@site/docs/Heading.mdx",
+  "sourceDirName": ".",
+  "slug": "/Heading",
+  "permalink": "/docs/Heading",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Heading.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Heading",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Divider",
+    "permalink": "/docs/Divider"
+  },
+  "next": {
+    "title": "Input",
+    "permalink": "/docs/Input"
+  }
+}

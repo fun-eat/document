@@ -1,0 +1,23 @@
+---
+title: Carousel
+sidebar_position: 5
+---
+
+## Carousel
+
+캐러셀 컴포넌트입니다.
+
+```tsx
+import { Carousel } from '@fun-eat/design-system';
+```
+
+### Example
+
+```tsx
+const carouselList = [0, 1, 2].map((index) => ({
+  id: index,
+  children: <div>{index}</div>,
+}));
+
+render(<Carousel carouselList={carouselList} />);
+```

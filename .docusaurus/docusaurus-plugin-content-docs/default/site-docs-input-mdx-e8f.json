@@ -1,0 +1,28 @@
+{
+  "id": "Input",
+  "title": "Input",
+  "description": "Input",
+  "source": "@site/docs/Input.mdx",
+  "sourceDirName": ".",
+  "slug": "/Input",
+  "permalink": "/docs/Input",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Input.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Input",
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Heading",
+    "permalink": "/docs/Heading"
+  },
+  "next": {
+    "title": "Link",
+    "permalink": "/docs/Link"
+  }
+}

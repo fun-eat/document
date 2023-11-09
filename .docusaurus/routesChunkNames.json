@@ -42,17 +42,17 @@
       "plugin": "plugin---docusaurus-debugfc-9-ded"
     }
   },
-  "/docs-e88": {
+  "/docs-ccb": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docs-5-ce-5ce"
     }
   },
-  "/docs-4d7": {
+  "/docs-2f6": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-5cf": {
+  "/docs-ab3": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Badge-257": {
@@ -63,9 +63,53 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-bottom-sheete-78-b99"
   },
+  "/docs/Button-4a0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-button-6-d-0-866"
+  },
+  "/docs/Carousel-183": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-carousel-063-10c"
+  },
+  "/docs/Checkbox-797": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-checkboxf-24-51a"
+  },
+  "/docs/Divider-700": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-divider-510-fa0"
+  },
+  "/docs/Heading-c16": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-headingad-0-16f"
+  },
+  "/docs/Input-e6f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-inpute-8-f-08f"
+  },
   "/docs/Intall-7ee": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intall-085-69a"
+  },
+  "/docs/Link-dde": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-link-85-e-621"
+  },
+  "/docs/Skeleton-a22": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-skeleton-370-ec7"
+  },
+  "/docs/Spacing-fbf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-spacinge-4-a-29b"
+  },
+  "/docs/Text-846": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-text-235-aea"
+  },
+  "/docs/Textarea-f47": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-textareafc-1-f25"
   },
   "/docs/Toast-ebd": {
     "__comp": "__comp---theme-doc-item-178-a40",

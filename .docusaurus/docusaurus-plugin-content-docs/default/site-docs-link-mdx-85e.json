@@ -1,0 +1,28 @@
+{
+  "id": "Link",
+  "title": "Link",
+  "description": "Link",
+  "source": "@site/docs/Link.mdx",
+  "sourceDirName": ".",
+  "slug": "/Link",
+  "permalink": "/docs/Link",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Link.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Link",
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Input",
+    "permalink": "/docs/Input"
+  },
+  "next": {
+    "title": "Skeleton",
+    "permalink": "/docs/Skeleton"
+  }
+}

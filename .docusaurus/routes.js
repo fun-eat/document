@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e88'),
+    component: ComponentCreator('/docs', 'ccb'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '4d7'),
+        component: ComponentCreator('/docs', '2f6'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '5cf'),
+            component: ComponentCreator('/docs', 'ab3'),
             routes: [
               {
                 path: '/docs/Badge',
@@ -62,8 +62,74 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/Button',
+                component: ComponentCreator('/docs/Button', '4a0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Carousel',
+                component: ComponentCreator('/docs/Carousel', '183'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Checkbox',
+                component: ComponentCreator('/docs/Checkbox', '797'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Divider',
+                component: ComponentCreator('/docs/Divider', '700'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Heading',
+                component: ComponentCreator('/docs/Heading', 'c16'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Input',
+                component: ComponentCreator('/docs/Input', 'e6f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/Intall',
                 component: ComponentCreator('/docs/Intall', '7ee'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Link',
+                component: ComponentCreator('/docs/Link', 'dde'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Skeleton',
+                component: ComponentCreator('/docs/Skeleton', 'a22'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Spacing',
+                component: ComponentCreator('/docs/Spacing', 'fbf'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Text',
+                component: ComponentCreator('/docs/Text', '846'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Textarea',
+                component: ComponentCreator('/docs/Textarea', 'f47'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

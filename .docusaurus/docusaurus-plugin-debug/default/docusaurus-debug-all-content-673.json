@@ -71,8 +71,176 @@
                 "permalink": "/docs/Badge"
               },
               "next": {
-                "title": "Toast",
-                "permalink": "/docs/Toast"
+                "title": "Button",
+                "permalink": "/docs/Button"
+              }
+            },
+            {
+              "id": "Button",
+              "title": "Button",
+              "description": "Button",
+              "source": "@site/docs/Button.mdx",
+              "sourceDirName": ".",
+              "slug": "/Button",
+              "permalink": "/docs/Button",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Button.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "title": "Button",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BottomSheet",
+                "permalink": "/docs/BottomSheet"
+              },
+              "next": {
+                "title": "Carousel",
+                "permalink": "/docs/Carousel"
+              }
+            },
+            {
+              "id": "Carousel",
+              "title": "Carousel",
+              "description": "Carousel",
+              "source": "@site/docs/Carousel.mdx",
+              "sourceDirName": ".",
+              "slug": "/Carousel",
+              "permalink": "/docs/Carousel",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Carousel.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "title": "Carousel",
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Button",
+                "permalink": "/docs/Button"
+              },
+              "next": {
+                "title": "Checkbox",
+                "permalink": "/docs/Checkbox"
+              }
+            },
+            {
+              "id": "Checkbox",
+              "title": "Checkbox",
+              "description": "Checkbox",
+              "source": "@site/docs/Checkbox.mdx",
+              "sourceDirName": ".",
+              "slug": "/Checkbox",
+              "permalink": "/docs/Checkbox",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Checkbox.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "title": "Checkbox",
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Carousel",
+                "permalink": "/docs/Carousel"
+              },
+              "next": {
+                "title": "Divider",
+                "permalink": "/docs/Divider"
+              }
+            },
+            {
+              "id": "Divider",
+              "title": "Divider",
+              "description": "Divider",
+              "source": "@site/docs/Divider.mdx",
+              "sourceDirName": ".",
+              "slug": "/Divider",
+              "permalink": "/docs/Divider",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Divider.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "title": "Divider",
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Checkbox",
+                "permalink": "/docs/Checkbox"
+              },
+              "next": {
+                "title": "Heading",
+                "permalink": "/docs/Heading"
+              }
+            },
+            {
+              "id": "Heading",
+              "title": "Heading",
+              "description": "Heading",
+              "source": "@site/docs/Heading.mdx",
+              "sourceDirName": ".",
+              "slug": "/Heading",
+              "permalink": "/docs/Heading",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Heading.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "title": "Heading",
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Divider",
+                "permalink": "/docs/Divider"
+              },
+              "next": {
+                "title": "Input",
+                "permalink": "/docs/Input"
+              }
+            },
+            {
+              "id": "Input",
+              "title": "Input",
+              "description": "Input",
+              "source": "@site/docs/Input.mdx",
+              "sourceDirName": ".",
+              "slug": "/Input",
+              "permalink": "/docs/Input",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Input.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "title": "Input",
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Heading",
+                "permalink": "/docs/Heading"
+              },
+              "next": {
+                "title": "Link",
+                "permalink": "/docs/Link"
               }
             },
             {
@@ -99,6 +267,146 @@
               }
             },
             {
+              "id": "Link",
+              "title": "Link",
+              "description": "Link",
+              "source": "@site/docs/Link.mdx",
+              "sourceDirName": ".",
+              "slug": "/Link",
+              "permalink": "/docs/Link",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Link.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "title": "Link",
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Input",
+                "permalink": "/docs/Input"
+              },
+              "next": {
+                "title": "Skeleton",
+                "permalink": "/docs/Skeleton"
+              }
+            },
+            {
+              "id": "Skeleton",
+              "title": "Skeleton",
+              "description": "Skeleton",
+              "source": "@site/docs/Skeleton.mdx",
+              "sourceDirName": ".",
+              "slug": "/Skeleton",
+              "permalink": "/docs/Skeleton",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Skeleton.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "title": "Skeleton",
+                "sidebar_position": 11
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Link",
+                "permalink": "/docs/Link"
+              },
+              "next": {
+                "title": "Spacing",
+                "permalink": "/docs/Spacing"
+              }
+            },
+            {
+              "id": "Spacing",
+              "title": "Spacing",
+              "description": "Spacing",
+              "source": "@site/docs/Spacing.mdx",
+              "sourceDirName": ".",
+              "slug": "/Spacing",
+              "permalink": "/docs/Spacing",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Spacing.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 12,
+              "frontMatter": {
+                "title": "Spacing",
+                "sidebar_position": 12
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Skeleton",
+                "permalink": "/docs/Skeleton"
+              },
+              "next": {
+                "title": "Text",
+                "permalink": "/docs/Text"
+              }
+            },
+            {
+              "id": "Text",
+              "title": "Text",
+              "description": "Text",
+              "source": "@site/docs/Text.mdx",
+              "sourceDirName": ".",
+              "slug": "/Text",
+              "permalink": "/docs/Text",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Text.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 13,
+              "frontMatter": {
+                "title": "Text",
+                "sidebar_position": 13
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Spacing",
+                "permalink": "/docs/Spacing"
+              },
+              "next": {
+                "title": "Textarea",
+                "permalink": "/docs/Textarea"
+              }
+            },
+            {
+              "id": "Textarea",
+              "title": "Textarea",
+              "description": "Textarea",
+              "source": "@site/docs/Textarea.mdx",
+              "sourceDirName": ".",
+              "slug": "/Textarea",
+              "permalink": "/docs/Textarea",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Textarea.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 14,
+              "frontMatter": {
+                "title": "Textarea",
+                "sidebar_position": 14
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Text",
+                "permalink": "/docs/Text"
+              },
+              "next": {
+                "title": "Toast",
+                "permalink": "/docs/Toast"
+              }
+            },
+            {
               "id": "Toast",
               "title": "Toast",
               "description": "Toast",
@@ -111,15 +419,15 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Toast.mdx",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 4,
+              "sidebarPosition": 15,
               "frontMatter": {
                 "title": "Toast",
-                "sidebar_position": 4
+                "sidebar_position": 15
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "BottomSheet",
-                "permalink": "/docs/BottomSheet"
+                "title": "Textarea",
+                "permalink": "/docs/Textarea"
               }
             }
           ],
@@ -137,6 +445,50 @@
               {
                 "type": "doc",
                 "id": "BottomSheet"
+              },
+              {
+                "type": "doc",
+                "id": "Button"
+              },
+              {
+                "type": "doc",
+                "id": "Carousel"
+              },
+              {
+                "type": "doc",
+                "id": "Checkbox"
+              },
+              {
+                "type": "doc",
+                "id": "Divider"
+              },
+              {
+                "type": "doc",
+                "id": "Heading"
+              },
+              {
+                "type": "doc",
+                "id": "Input"
+              },
+              {
+                "type": "doc",
+                "id": "Link"
+              },
+              {
+                "type": "doc",
+                "id": "Skeleton"
+              },
+              {
+                "type": "doc",
+                "id": "Spacing"
+              },
+              {
+                "type": "doc",
+                "id": "Text"
+              },
+              {
+                "type": "doc",
+                "id": "Textarea"
               },
               {
                 "type": "doc",

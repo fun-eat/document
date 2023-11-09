@@ -1,0 +1,28 @@
+{
+  "id": "Carousel",
+  "title": "Carousel",
+  "description": "Carousel",
+  "source": "@site/docs/Carousel.mdx",
+  "sourceDirName": ".",
+  "slug": "/Carousel",
+  "permalink": "/docs/Carousel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Carousel.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Carousel",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Button",
+    "permalink": "/docs/Button"
+  },
+  "next": {
+    "title": "Checkbox",
+    "permalink": "/docs/Checkbox"
+  }
+}

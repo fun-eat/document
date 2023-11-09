@@ -32,6 +32,83 @@
       },
       {
         "type": "link",
+        "label": "Button",
+        "href": "/docs/Button",
+        "docId": "Button",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Carousel",
+        "href": "/docs/Carousel",
+        "docId": "Carousel",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Checkbox",
+        "href": "/docs/Checkbox",
+        "docId": "Checkbox",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Divider",
+        "href": "/docs/Divider",
+        "docId": "Divider",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Heading",
+        "href": "/docs/Heading",
+        "docId": "Heading",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Input",
+        "href": "/docs/Input",
+        "docId": "Input",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Link",
+        "href": "/docs/Link",
+        "docId": "Link",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Skeleton",
+        "href": "/docs/Skeleton",
+        "docId": "Skeleton",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Spacing",
+        "href": "/docs/Spacing",
+        "docId": "Spacing",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Text",
+        "href": "/docs/Text",
+        "docId": "Text",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Textarea",
+        "href": "/docs/Textarea",
+        "docId": "Textarea",
+        "unlisted": false
+      },
+      {
+        "type": "link",
         "label": "Toast",
         "href": "/docs/Toast",
         "docId": "Toast",
@@ -52,10 +129,76 @@
       "description": "BottomSheet",
       "sidebar": "tutorialSidebar"
     },
+    "Button": {
+      "id": "Button",
+      "title": "Button",
+      "description": "Button",
+      "sidebar": "tutorialSidebar"
+    },
+    "Carousel": {
+      "id": "Carousel",
+      "title": "Carousel",
+      "description": "Carousel",
+      "sidebar": "tutorialSidebar"
+    },
+    "Checkbox": {
+      "id": "Checkbox",
+      "title": "Checkbox",
+      "description": "Checkbox",
+      "sidebar": "tutorialSidebar"
+    },
+    "Divider": {
+      "id": "Divider",
+      "title": "Divider",
+      "description": "Divider",
+      "sidebar": "tutorialSidebar"
+    },
+    "Heading": {
+      "id": "Heading",
+      "title": "Heading",
+      "description": "Heading",
+      "sidebar": "tutorialSidebar"
+    },
+    "Input": {
+      "id": "Input",
+      "title": "Input",
+      "description": "Input",
+      "sidebar": "tutorialSidebar"
+    },
     "Intall": {
       "id": "Intall",
       "title": "Install",
       "description": "npm",
+      "sidebar": "tutorialSidebar"
+    },
+    "Link": {
+      "id": "Link",
+      "title": "Link",
+      "description": "Link",
+      "sidebar": "tutorialSidebar"
+    },
+    "Skeleton": {
+      "id": "Skeleton",
+      "title": "Skeleton",
+      "description": "Skeleton",
+      "sidebar": "tutorialSidebar"
+    },
+    "Spacing": {
+      "id": "Spacing",
+      "title": "Spacing",
+      "description": "Spacing",
+      "sidebar": "tutorialSidebar"
+    },
+    "Text": {
+      "id": "Text",
+      "title": "Text",
+      "description": "Text",
+      "sidebar": "tutorialSidebar"
+    },
+    "Textarea": {
+      "id": "Textarea",
+      "title": "Textarea",
+      "description": "Textarea",
       "sidebar": "tutorialSidebar"
     },
     "Toast": {

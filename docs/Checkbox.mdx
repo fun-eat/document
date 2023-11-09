@@ -1,0 +1,29 @@
+---
+title: Checkbox
+sidebar_position: 6
+---
+
+## Checkbox
+
+체크박스 컴포넌트입니다.
+
+```tsx
+import { Checkbox } from '@fun-eat/design-system';
+```
+
+### Props
+
+| props     | value                                      | description                              |
+| --------- | ------------------------------------------ | ---------------------------------------- |
+| size?     | xs, sm, md, lg, xl<br /> (default: md)     | Checkbox 컴포넌트의 체크박스 크기입니다. |
+| fontSize? | xs, sm, md, lg, xl<br /> (default: md)     | Checkbox 컴포넌트의 폰트 크기입니다.     |
+| weight?   | light, regular, bold<br /> (default: bold) | Checkbox 컴포넌트의 폰트 가중치입니다.   |
+| tabIndex? | -1, 0, 1                                   | Checkbox 컴포넌트의 tabIndex입니다.      |
+
+### Example
+
+```tsx
+<Checkbox size='xl' fontSize='xl' weight='bold'>
+  재구매 의사가 있으신가요?
+</Checkbox>
+```

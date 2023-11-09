@@ -1,0 +1,35 @@
+---
+title: Input
+sidebar_position: 9
+---
+
+## Input
+
+인풋 컴포넌트입니다.
+
+```tsx
+import { Input } from '@fun-eat/design-system';
+```
+
+### Props
+
+| props         | value     | description                                   |
+| ------------- | --------- | --------------------------------------------- |
+| customWidth?  | string    | Input 컴포넌트의 너비값입니다.                |
+| minWidth?     | string    | Input 컴포넌트의 최소 너비값입니다.           |
+| isError?      | boolean   | Input value에 에러가 있는지 여부입니다.       |
+| rightIcon?    | ReactNode | Input 컴포넌트 오른쪽에 위치할 아이콘입니다.  |
+| errorMessage? | string    | isError가 true일 때 보여줄 에러 메시지입니다. |
+
+### Example
+
+```tsx
+<Input
+  customWidth='100%'
+  rightIcon={
+    <Button customHeight='36px' color='white'>
+      <SvgIcon variant='search' />
+    </Button>
+  }
+/>
+```

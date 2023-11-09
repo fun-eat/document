@@ -1,0 +1,28 @@
+{
+  "id": "Text",
+  "title": "Text",
+  "description": "Text",
+  "source": "@site/docs/Text.mdx",
+  "sourceDirName": ".",
+  "slug": "/Text",
+  "permalink": "/docs/Text",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Text.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "title": "Text",
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spacing",
+    "permalink": "/docs/Spacing"
+  },
+  "next": {
+    "title": "Textarea",
+    "permalink": "/docs/Textarea"
+  }
+}
