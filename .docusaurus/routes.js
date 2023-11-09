@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '4c2'),
+    component: ComponentCreator('/docs', 'e88'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'aea'),
+        component: ComponentCreator('/docs', '4d7'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'd86'),
+            component: ComponentCreator('/docs', '5cf'),
             routes: [
               {
                 path: '/docs/Badge',
@@ -56,8 +56,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/BottomSheet',
+                component: ComponentCreator('/docs/BottomSheet', '706'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/Intall',
                 component: ComponentCreator('/docs/Intall', '7ee'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Toast',
+                component: ComponentCreator('/docs/Toast', 'ebd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

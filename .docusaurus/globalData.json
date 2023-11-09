@@ -16,8 +16,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "BottomSheet",
+              "path": "/docs/BottomSheet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Intall",
               "path": "/docs/Intall",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toast",
+              "path": "/docs/Toast",
               "sidebar": "tutorialSidebar"
             }
           ],

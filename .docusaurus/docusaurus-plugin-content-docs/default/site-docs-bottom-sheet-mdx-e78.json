@@ -1,0 +1,28 @@
+{
+  "id": "BottomSheet",
+  "title": "BottomSheet",
+  "description": "BottomSheet",
+  "source": "@site/docs/BottomSheet.mdx",
+  "sourceDirName": ".",
+  "slug": "/BottomSheet",
+  "permalink": "/docs/BottomSheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/BottomSheet.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "BottomSheet",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Badge",
+    "permalink": "/docs/Badge"
+  },
+  "next": {
+    "title": "Toast",
+    "permalink": "/docs/Toast"
+  }
+}

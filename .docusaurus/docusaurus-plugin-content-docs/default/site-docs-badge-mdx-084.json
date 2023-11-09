@@ -20,5 +20,9 @@
   "previous": {
     "title": "Install",
     "permalink": "/docs/Intall"
+  },
+  "next": {
+    "title": "BottomSheet",
+    "permalink": "/docs/BottomSheet"
   }
 }

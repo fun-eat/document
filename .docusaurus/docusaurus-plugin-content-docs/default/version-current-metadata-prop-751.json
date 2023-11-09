@@ -22,6 +22,20 @@
         "href": "/docs/Badge",
         "docId": "Badge",
         "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "BottomSheet",
+        "href": "/docs/BottomSheet",
+        "docId": "BottomSheet",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Toast",
+        "href": "/docs/Toast",
+        "docId": "Toast",
+        "unlisted": false
       }
     ]
   },
@@ -32,10 +46,22 @@
       "description": "Badge",
       "sidebar": "tutorialSidebar"
     },
+    "BottomSheet": {
+      "id": "BottomSheet",
+      "title": "BottomSheet",
+      "description": "BottomSheet",
+      "sidebar": "tutorialSidebar"
+    },
     "Intall": {
       "id": "Intall",
       "title": "Install",
       "description": "npm",
+      "sidebar": "tutorialSidebar"
+    },
+    "Toast": {
+      "id": "Toast",
+      "title": "Toast",
+      "description": "Toast",
       "sidebar": "tutorialSidebar"
     }
   }

@@ -41,6 +41,38 @@
               "previous": {
                 "title": "Install",
                 "permalink": "/docs/Intall"
+              },
+              "next": {
+                "title": "BottomSheet",
+                "permalink": "/docs/BottomSheet"
+              }
+            },
+            {
+              "id": "BottomSheet",
+              "title": "BottomSheet",
+              "description": "BottomSheet",
+              "source": "@site/docs/BottomSheet.mdx",
+              "sourceDirName": ".",
+              "slug": "/BottomSheet",
+              "permalink": "/docs/BottomSheet",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/BottomSheet.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "BottomSheet",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Badge",
+                "permalink": "/docs/Badge"
+              },
+              "next": {
+                "title": "Toast",
+                "permalink": "/docs/Toast"
               }
             },
             {
@@ -65,6 +97,30 @@
                 "title": "Badge",
                 "permalink": "/docs/Badge"
               }
+            },
+            {
+              "id": "Toast",
+              "title": "Toast",
+              "description": "Toast",
+              "source": "@site/docs/Toast.mdx",
+              "sourceDirName": ".",
+              "slug": "/Toast",
+              "permalink": "/docs/Toast",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Toast.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "title": "Toast",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BottomSheet",
+                "permalink": "/docs/BottomSheet"
+              }
             }
           ],
           "drafts": [],
@@ -77,6 +133,14 @@
               {
                 "type": "doc",
                 "id": "Badge"
+              },
+              {
+                "type": "doc",
+                "id": "BottomSheet"
+              },
+              {
+                "type": "doc",
+                "id": "Toast"
               }
             ]
           }
